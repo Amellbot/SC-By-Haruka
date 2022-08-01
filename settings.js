@@ -19,27 +19,27 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
+global.owner = ['15064043432']
+global.premium = ['15064043432']
+global.ownernomer = '15064043432'
+global.ownername = 𝑺𝑬𝑶𝑼𝑳 𝑨𝑴𝑬𝑳𝑰𝑶'
+global.botname = '𝑺𝑬𝑼𝑻𝑰𝑶𝑳 𝑨𝑴𝑬𝑳𝑰𝑶 𝑩𝑶𝑻'
+global.footer = '© ᴛᴀᴘ ᴍᴇ ɪɴ ᴀᴍᴇʟʟ'
 global.ig = 'https://github.com/dominator454'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/dominator454/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
-global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
-global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
+global.packname = '𝑺𝑬𝑶𝑼𝑳 𝑻𝑯𝑬 𝑨𝑴𝑬𝑳𝑳 𝑩𝑶𝑻'
+global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑨𝑴𝑬𝑳𝑰𝑶/𝑨𝑴𝑬𝑳'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    success: '𝑩𝑬𝑹𝑯𝑨𝑺𝑰𝑳',
+    admin: '𝑭𝑰𝑻𝑼𝑹 𝑰𝑵𝑰 𝑲𝑯𝑼𝑺𝑼𝑺 𝑨𝑫𝑴𝑰𝑵 𝑩𝑬𝑺𝑻𝑰𝑬𝑬!',
+    botAdmin: '𝑯𝑨𝒀 𝑩𝑬𝑺𝑻𝒀 𝑩𝑶𝑻 𝑯𝑨𝑹𝑼𝑺 𝑱𝑨𝑫𝑰 𝑨𝑫𝑴𝑰𝑵!',
+    owner: '𝑭𝑰𝑻𝑼𝑹 𝑰𝑵𝑰 𝑲𝑯𝑼𝑺𝑼𝑺 𝑷𝑬𝑵𝑪𝑰𝑷𝑻𝑨 𝑺𝑨𝒀𝑨 𝑲𝑨𝑲𝑨!',
+    group: '𝑴𝑨𝑨𝑭 𝑰𝑵𝑰 𝑲𝑯𝑼𝑺𝑼𝑺 𝑮𝑹𝑼𝑷!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
